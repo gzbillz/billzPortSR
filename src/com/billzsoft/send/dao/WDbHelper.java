@@ -9,7 +9,7 @@ import com.billzsoft.dbHelper.DbConnection;
  * @description 从串口获取数据，然后提交到外网mas数据库服务器
  * @class WDbHelper
  * @author YHZ
- * @date 2013-6-24
+ * @date 2013-6-24 
  */
 public class WDbHelper extends DbConnection{
 	
